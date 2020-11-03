@@ -1,0 +1,2 @@
+# 每小时执行一次
+0 0 0/1 * * ? /Users/harvies/IdeaProjects/software/cloudpan189/sign.sh >> /var/log/cloudpan189_sign.log
